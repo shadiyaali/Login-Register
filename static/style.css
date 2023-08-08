@@ -1,0 +1,18 @@
+body{
+    margin:0;
+    background-image: linear-gradient(to bottom right, rgb(242, 46, 144), rgb(125, 2, 249))!important;
+  
+}
+.body{
+  width: 100vw;
+    height: 100vh;
+}
+.header{
+    width: 100vw!important;
+}
+form{
+    height: 50%;
+    width:35%;
+    background-image: linear-gradient(to bottom right, rgb(250, 5, 152), rgb(126, 4, 249))!important;
+
+}
